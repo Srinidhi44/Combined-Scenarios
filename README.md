@@ -5,6 +5,7 @@ Name: Srinidhi.P
 Regno.: 212222040160
 
 AIM:
+
 1. Solution Ideation
 
 Use a known UX problem (e.g., booking an appointment in a hospital app). Task: Conduct crazy 8s or brainwriting ideation exercise. Generate multiple low-fidelity ideas.
